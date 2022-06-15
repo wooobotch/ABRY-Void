@@ -1,0 +1,17 @@
+make
+xserver-xorg
+build-essential
+libx11-dev
+libxinerama-dev
+libxft-dev
+xinit
+xcompmgr
+x11-xserver-utils
+neovim
+apt-transport-https
+unrar
+unzip
+zathura
+curl
+xfce4-appfinder
+thunar
